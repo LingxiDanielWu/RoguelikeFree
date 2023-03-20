@@ -1,5 +1,6 @@
 *.csproj
-/Library/PackageCache
-/Temp
-/Library/**
-/Logs/**
+/Temp/*
+/Library/*
+/Logs/*
+/obj/*
+/.vs/*
