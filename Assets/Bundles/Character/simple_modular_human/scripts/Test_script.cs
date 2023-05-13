@@ -177,7 +177,7 @@ public class Test_script : MonoBehaviour
      
         if(!destermine_new_aim)
         {
-            int what_to_choose = UnityEngine.Random.Range(0, 5);
+            int what_to_choose = 0;
 
            
 
