@@ -8,6 +8,7 @@ TagManager:
   - stealingpoint
   - waypoint
   - sittingpoint
+  - buidingpoint
   layers:
   - Default
   - TransparentFX
@@ -15,8 +16,8 @@ TagManager:
   - Character
   - Water
   - UI
-  - Walkable
-  - 
+  - NavMesh
+  - NoneNavMesh
   - 
   - 
   - 
